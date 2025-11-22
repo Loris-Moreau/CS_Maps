@@ -1,0 +1,3 @@
+Download the version for your UE. For example, if you use UE5.6 get the plugin for UE5.6. Put the plugin folder into "YOUR_UE_PATH\Engine\Plugins"
+
+LINK: https://disk.yandex.ru/d/pvyVziqBe9yCIw

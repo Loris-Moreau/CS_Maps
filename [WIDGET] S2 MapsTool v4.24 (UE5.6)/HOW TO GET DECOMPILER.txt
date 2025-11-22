@@ -1,0 +1,2 @@
+Go to https://github.com/ValveResourceFormat/ValveResourceFormat/releases. Find the latest release, download the file called "cli-windows-x64.zip". Extract all, use it.
+
