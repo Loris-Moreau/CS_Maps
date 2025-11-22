@@ -93,6 +93,7 @@ bUseManualIPAddress=False
 ManualIPAddress=
 
 [/Script/PythonScriptPlugin.PythonScriptPluginSettings]
++AdditionalPaths=(Path="../../../../../../../Github/CS_Maps/Intermediate/PythonLib")
 bIsolateInterpreterEnvironment=True
 bDeveloperMode=False
 bRunPipInstallOnStartup=True
@@ -106,4 +107,3 @@ RemoteExecutionMulticastBindAddress=127.0.0.1
 RemoteExecutionSendBufferSizeBytes=2097152
 RemoteExecutionReceiveBufferSizeBytes=2097152
 RemoteExecutionMulticastTtl=0
-+AdditionalPaths=(Path="../../../../../../../Github/CS_Maps/Intermediate/PythonLib")
